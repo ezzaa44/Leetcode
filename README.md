@@ -25,4 +25,9 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/ezzaa44/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ezzaa44/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0344-reverse-string](https://github.com/ezzaa44/Leetcode/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/ezzaa44/Leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
