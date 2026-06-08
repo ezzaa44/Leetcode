@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/ezzaa44/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ezzaa44/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/ezzaa44/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/ezzaa44/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0704-binary-search](https://github.com/ezzaa44/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ezzaa44/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -46,6 +47,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/ezzaa44/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/ezzaa44/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ezzaa44/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 <!---LeetCode Topics End-->
